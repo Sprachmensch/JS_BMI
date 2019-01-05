@@ -128,8 +128,6 @@ document.getElementById("resultButton").addEventListener("click", (e) => {
 
     UI.createResultAlert(result, alertStatus);
 
-
     UI.clearField();
-
 
 });
